@@ -1,5 +1,4 @@
 # Ghost_Framework
-# Ghost Framework
                                                    .-.
                                                  .'   `.
                                                  :0 0   :
